@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel Listing App", "Hotel Listing App\Hotel Listing App.csproj", "{A0293428-85F4-4C95-B45F-5530FF8D2E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universtiy Portal", "Universtiy Portal\Universtiy Portal.csproj", "{5E24B9C7-888B-4945-939F-2F75E3583B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0293428-85F4-4C95-B45F-5530FF8D2E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0293428-85F4-4C95-B45F-5530FF8D2E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0293428-85F4-4C95-B45F-5530FF8D2E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0293428-85F4-4C95-B45F-5530FF8D2E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E24B9C7-888B-4945-939F-2F75E3583B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E24B9C7-888B-4945-939F-2F75E3583B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E24B9C7-888B-4945-939F-2F75E3583B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E24B9C7-888B-4945-939F-2F75E3583B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19C82C5-5A2A-480F-9342-2A880EA6D95D}
+	EndGlobalSection
+EndGlobal
